@@ -11,3 +11,4 @@ players form into three-player squads and fight against another squad in a 3v3 t
 deathmatch over a series of rounds to determine the winner of the match. Teams win
 when their team has at least 3 points and is 2 points ahead.
 Game Link on Drive:https://drive.google.com/file/d/1EqnMqnqWy4z1BpkBl1m7l1c2sV0HvNrl/view?usp=sharing
+![alt text](https://github.com/samar-fathallah/Apex_Legends_Game/blob/main/ss.JPG?raw=true)
